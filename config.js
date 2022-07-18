@@ -14,7 +14,7 @@ global.Owner = {
     isCreator: false // if true this number will send if user use command /owner or /creator
   },
   '6288213988636': { // put your number here
-    name: 'Dave',
+    name: 'Iyan',
     isDev: false, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: false // if true this number will send if user use command /owner or /creator
@@ -24,7 +24,7 @@ global.Owner = {
   },
   '13479805233': {} // ignore if you don't want anything, like name dll
 }
-global.mods = ['6288213988636'] // Want some help?
+global.mods = [' 6289516947204'] // Want some help?
 global.prems = [6289516947204] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -56,7 +56,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'wa.me/6289516947204'
-global.author = 'Iyan Bot Is The Best'
+global.author = '𝚁𝙲𝚃𝙸 𝙱𝙾𝚃 Is The Best'
 
 global.multiplier = 39 // The higher, The harder levelup
 
